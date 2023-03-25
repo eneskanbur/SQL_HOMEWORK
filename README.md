@@ -1,3 +1,3 @@
-# SQL_HOMEWORK1
- My first assignment in SQL.
+# SQL_HOMEWORK
+ My assignmentS in SQL.
 https://app.patika.dev/kanbster
